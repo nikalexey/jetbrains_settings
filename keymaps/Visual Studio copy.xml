@@ -1,0 +1,7 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ExportToTextFile" />
+  <action id="GotoRelated">
+    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
+</keymap>
