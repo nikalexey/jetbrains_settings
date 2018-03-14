@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Expand">
+        <Item>
+          <IdeaActionID>ExpandRegion</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
+          <Description>Expand</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Open Task...">
         <Item>
           <IdeaActionID>tasks.goto</IdeaActionID>
