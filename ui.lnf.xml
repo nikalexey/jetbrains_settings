@@ -1,6 +1,8 @@
 <application>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="FONT_SCALE" value="1.25" />
+    <option name="SHOW_ICONS_IN_MENUS" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
 </application>
