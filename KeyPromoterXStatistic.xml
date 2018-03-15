@@ -14,7 +14,7 @@
           <IdeaActionID>Build</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
