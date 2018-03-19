@@ -7,6 +7,11 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="GotoRelated">
     <keyboard-shortcut first-keystroke="ctrl alt home" />
     <keyboard-shortcut first-keystroke="alt o" />
