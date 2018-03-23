@@ -6,7 +6,7 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
           <Description>Back</Description>
-          <Count>11</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build">
@@ -47,6 +47,14 @@
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
           <Description>Expand</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find Usages">
+        <Item>
+          <IdeaActionID>FindUsages</IdeaActionID>
+          <ShortCut>'Ctrl+R'</ShortCut>
+          <Description>Find Usages</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Source">
