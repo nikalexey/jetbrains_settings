@@ -145,6 +145,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop Background Processes...">
+        <Item>
+          <IdeaActionID>StopBackgroundProcesses</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F5'</ShortCut>
+          <Description>Stop Background Processes...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Synchronize">
         <Item>
           <IdeaActionID>Synchronize</IdeaActionID>
