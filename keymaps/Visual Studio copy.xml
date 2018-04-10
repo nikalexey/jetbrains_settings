@@ -8,6 +8,10 @@
   </action>
   <action id="ChooseRunConfiguration" />
   <action id="ExportToTextFile" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
