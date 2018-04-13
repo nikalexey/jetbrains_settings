@@ -1,6 +1,5 @@
 <code_scheme name="Work" version="173">
-  <option name="RIGHT_MARGIN" value="175" />
-  <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="RIGHT_MARGIN" value="0" />
   <option name="SOFT_MARGINS" value="140" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
