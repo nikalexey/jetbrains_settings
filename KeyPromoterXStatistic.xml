@@ -1,14 +1,6 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Back">
-        <Item>
-          <IdeaActionID>Back</IdeaActionID>
-          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
-          <Description>Back</Description>
-          <Count>37</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Build">
         <Item>
           <IdeaActionID>Build</IdeaActionID>
@@ -207,6 +199,16 @@
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Back">
+        <Item>
+          <IdeaActionID>Back</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Left' or 'Button4 Click'</ShortCut>
+          <Description>Back</Description>
+          <Count>39</Count>
         </Item>
       </Statistic>
     </option>
