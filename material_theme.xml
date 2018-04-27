@@ -2,5 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.2.0.1" />
     <option name="selectedTheme" value="ONE_DARK" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="compactDropdowns" value="true" />
   </component>
 </application>

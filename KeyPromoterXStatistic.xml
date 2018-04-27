@@ -169,6 +169,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="SmartType">
+        <Item>
+          <IdeaActionID>SmartTypeCompletion</IdeaActionID>
+          <ShortCut>'Alt+Shift+Space'</ShortCut>
+          <Description>SmartType</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'TestInitRequest.testRegisterMessageWithoutInitRequest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
