@@ -6,7 +6,7 @@
           <IdeaActionID>Build</IdeaActionID>
           <ShortCut>'Ctrl+F9'</ShortCut>
           <Description>Build</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -206,7 +206,7 @@
           <IdeaActionID>StopBackgroundProcesses</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Stop Background Processes...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
