@@ -54,7 +54,7 @@
           <IdeaActionID>ExpandRegion</IdeaActionID>
           <ShortCut>'Ctrl+NumPad +' or 'Ctrl+Equals'</ShortCut>
           <Description>Expand</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
