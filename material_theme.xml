@@ -1,10 +1,12 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3.1" />
+    <option name="version" value="2.4.1.2-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="7CB342" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactDropdowns" value="true" />
+    <option name="userId" value="45e8d598:16421152dde:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
