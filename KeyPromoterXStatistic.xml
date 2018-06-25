@@ -214,7 +214,7 @@
           <IdeaActionID>StopBackgroundProcesses</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F5'</ShortCut>
           <Description>Stop Background Processes...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
