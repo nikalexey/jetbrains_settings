@@ -2,8 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.2-2018.1" />
     <option name="selectedTheme" value="ONE_DARK" />
+    <option name="highlightColor" value="80cbc4" />
     <option name="isMaterialDesign" value="false" />
-    <option name="accentColor" value="7CB342" />
+    <option name="accentColor" value="7cb342" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="45e8d598:16421152dde:-7fff" />
