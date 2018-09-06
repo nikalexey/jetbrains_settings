@@ -2,10 +2,12 @@
   <option name="RIGHT_MARGIN" value="999" />
   <option name="SOFT_MARGINS" value="140" />
   <Objective-C>
-    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
+    <option name="INDENT_NAMESPACE_MEMBERS" value="2" />
     <option name="INDENT_C_STRUCT_MEMBERS" value="2" />
     <option name="INDENT_CLASS_MEMBERS" value="2" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="2" />
+    <option name="INDENT_PREPROCESSOR_DIRECTIVE" value="2" />
+    <option name="KEEP_STRUCTURES_IN_ONE_LINE" value="true" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_ALIGN_MULTILINE" value="false" />
     <option name="CLASS_CONSTRUCTOR_INIT_LIST_COMMA_ON_NEXT_LINE" value="true" />
     <option name="SPACE_BEFORE_REFERENCE_IN_DECLARATION" value="false" />
@@ -37,11 +39,15 @@
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="ObjectiveC">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="BLANK_LINES_AFTER_IMPORTS" value="2" />
+    <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="false" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+      <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
