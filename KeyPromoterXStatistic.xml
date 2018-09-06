@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Context Info">
+        <Item>
+          <IdeaActionID>EditorContextInfo</IdeaActionID>
+          <ShortCut>'Alt+Q'</ShortCut>
+          <Description>Context Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Copy">
         <Item>
           <IdeaActionID>$Copy</IdeaActionID>
@@ -129,6 +137,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Parameter Info">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Space'</ShortCut>
+          <Description>Parameter Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Paste from X clipboard">
         <Item>
           <IdeaActionID>EditorPasteFromX11</IdeaActionID>
@@ -158,6 +174,14 @@
           <IdeaActionID>QuickImplementations</IdeaActionID>
           <ShortCut>'Ctrl+Shift+I'</ShortCut>
           <Description>Quick Definition</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Documentation">
+        <Item>
+          <IdeaActionID>QuickJavaDoc</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Q'</ShortCut>
+          <Description>Quick Documentation</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
