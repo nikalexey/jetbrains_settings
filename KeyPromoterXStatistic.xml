@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'Handler.cpp'">
+        <Item>
+          <IdeaActionID>CMake.CompileCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+F7'</ShortCut>
+          <Description>Recompile 'Handler.cpp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rename...">
         <Item>
           <IdeaActionID>RenameElement</IdeaActionID>
