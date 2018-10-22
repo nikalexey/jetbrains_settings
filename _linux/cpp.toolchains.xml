@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="3">
     <toolchains detectedVersion="5">
       <toolchain name="Default" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="My" customCMakePath="/usr/bin/cmake" customMakePath="/usr/bin/make" customCCompilerPath="/usr/bin/clang" customCXXCompilerPath="/usr/bin/clang++" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
     </toolchains>
   </component>
 </application>
