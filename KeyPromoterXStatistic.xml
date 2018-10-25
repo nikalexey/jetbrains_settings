@@ -9,6 +9,14 @@
           <Count>20</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build 'server'">
+        <Item>
+          <IdeaActionID>Build</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+B'</ShortCut>
+          <Description>Build 'server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
@@ -38,7 +46,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
