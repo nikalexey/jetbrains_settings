@@ -121,6 +121,22 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Generate Definitions...">
+        <Item>
+          <IdeaActionID>CIDR.Lang.Cpp.GenerateDefinitions</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+D'</ShortCut>
+          <Description>Generate Definitions...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Implement Functions...">
+        <Item>
+          <IdeaActionID>ImplementMethods</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>Implement Functions...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Source">
         <Item>
           <IdeaActionID>EditSource</IdeaActionID>
