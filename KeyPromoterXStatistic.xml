@@ -249,6 +249,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Recompile 'TestMain.cpp'">
+        <Item>
+          <IdeaActionID>CMake.CompileCurrentFile</IdeaActionID>
+          <ShortCut>'Ctrl+F7'</ShortCut>
+          <Description>Recompile 'TestMain.cpp'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
